@@ -1,0 +1,19 @@
+Angular 8 Table Demo by Christopher Nicoletti(cnicoletti10@gmail.com)
+
+Angular table demo features:
+1. Add column (restricted to 7 max cols)
+2. Remove column (restricted to 3 min cols)
+3. Shuffle columns
+4. Pagination
+5. Sort
+6. HttpClient to local JSON file (data)
+
+I created this angular table demo to demonstrate the functionality of the table features in Anuglar. @angular/material
+
+For more information about this prod build, contact cnicoletti10@gmail.com
+
+3rd party license:
+@angular-devkit/build-angular
+MIT
+The MIT License
+Copyright (c) 2017 Google, Inc.
