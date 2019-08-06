@@ -8,7 +8,7 @@ Angular table demo features:
 5. Sort
 6. HttpClient to local JSON file (data)
 
-I created this angular table demo to demonstrate the functionality of the table features in Anuglar. @angular/material
+I created this angular table demo to demonstrate the functionality of the table features in Angular. @angular/material
 
 For more information about this prod build, contact cnicoletti10@gmail.com
 
